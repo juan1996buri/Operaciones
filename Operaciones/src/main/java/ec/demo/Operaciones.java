@@ -27,6 +27,6 @@ public class Operaciones {
 	}
 	
 	public void Sumar() {
-		System.out.print("Suma: "+(valor1+valor2));
+		System.out.print("La suma:  "+(valor1+valor2));
 	}
 }
