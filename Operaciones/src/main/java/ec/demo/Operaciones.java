@@ -27,12 +27,17 @@ public class Operaciones {
 	}
 	
 	public void Sumar() {
-		System.out.print("La suma:  "+(valor1+valor2));
+		System.out.println("La suma es:  "+(valor1+valor2));
 	}
 	public void Resta() {
-		System.out.print("La resta:  "+(valor1-valor2));
+		System.out.println("La resta es :  "+(valor1-valor2));
 	}
 	public void Multiplicacion() {
-		System.out.print("La multiplicacion:  "+(valor1*valor2));
+		System.out.println("La multiplicacion es:  "+(valor1*valor2));
 	}
+	
+	public void Division() {
+		System.out.println("La division es:  "+(valor1*valor2));
+	}
+	
 }
