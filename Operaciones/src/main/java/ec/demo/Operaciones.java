@@ -32,4 +32,7 @@ public class Operaciones {
 	public void Resta() {
 		System.out.print("La resta:  "+(valor1-valor2));
 	}
+	public void Multiplicacion() {
+		System.out.print("La multiplicacion:  "+(valor1*valor2));
+	}
 }
