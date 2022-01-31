@@ -29,4 +29,7 @@ public class Operaciones {
 	public void Sumar() {
 		System.out.print("La suma:  "+(valor1+valor2));
 	}
+	public void Resta() {
+		System.out.print("La resta:  "+(valor1-valor2));
+	}
 }
